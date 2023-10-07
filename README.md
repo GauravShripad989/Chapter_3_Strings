@@ -1,2 +1,2 @@
-# Chapter_3_Strings
+# Chapter_3_String
 Learning Strings
